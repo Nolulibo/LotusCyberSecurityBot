@@ -70,6 +70,18 @@ Technologies Used
 -GitHub Actions
 -System.Speech
 
+Project Structure
+File & Responsibility
+MainWindow.xaml	--> GUI layout
+MainWindow.xaml.cs --> GUI event handling
+Chatbot.cs -->	Core chatbot routing logic
+KeywordResponder.cs -->	Cybersecurity keyword responses
+SentimentDetector.cs -->	Emotion detection
+MemoryStore.cs -->	User memory and recall
+ConversationManager.cs -->	Follow-up handling
+AudioPlayer.cs -->	Audio greeting and speech
+build.yml -->	GitHub Actions CI workflow
+
 Author
 Developed by:
 Nolulibo Songqushwa
