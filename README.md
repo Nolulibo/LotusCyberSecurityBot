@@ -2,7 +2,7 @@ Lotus Cybersecurity Awareness Bot
 
 Overview
 
-Lotus Cybersecurity Awareness Bot is a WPF-based cybersecurity education chatbot developed in C# using .NET 8.0 and Visual Studio 2026.
+Lotus Cybersecurity Awareness Bot is a WPF-based cybersecurity education chatbot developed in C# using .NET 8.0 and Visual Studio 2022.
 The purpose of the chatbot is to educate users about cybersecurity threats and online safety through interactive conversation, emotional awareness, personalised responses, keyword recognition, memory recall, and voice interaction.
 This project was developed as Part 2 of a Cybersecurity Awareness Chatbot assignment.
 
